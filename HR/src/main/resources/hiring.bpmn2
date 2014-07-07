@@ -47,7 +47,7 @@
     <bpmn2:startEvent id="_76910DD0-5F45-421F-B1AC-E6507CC1C26C" drools:bgcolor="#9acd32" drools:selectable="true" name="">
       <bpmn2:outgoing>_416C6A67-B7EC-400B-9F2B-0F53B3FEDEB4</bpmn2:outgoing>
     </bpmn2:startEvent>
-    <bpmn2:userTask id="_6998ACD3-21DC-421D-AC04-BA7D375B0B21" drools:selectable="true" drools:taskName="HRInterview" drools:scriptFormat="http://www.java.com/java" name="HR Interview">
+    <bpmn2:userTask id="_6998ACD3-21DC-421D-AC04-BA7D375B0B21" drools:selectable="true" drools:taskName="HRInterview" drools:scriptFormat="http://www.java.com/java" name="HR Interview test">
       <bpmn2:incoming>_416C6A67-B7EC-400B-9F2B-0F53B3FEDEB4</bpmn2:incoming>
       <bpmn2:outgoing>_202CE0F7-63B3-4A5D-B5A9-9C9C5EB87468</bpmn2:outgoing>
       <bpmn2:ioSpecification id="_k9LWILzKEeKT6qCaqCIbfQ">
